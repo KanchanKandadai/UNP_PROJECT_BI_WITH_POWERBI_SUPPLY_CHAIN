@@ -3,7 +3,7 @@ A supply chain transforms raw materials and components into a finished product t
 
 The components of the dashboard include- Sales, Orders, Delivery Status, Customers and Insights.
 
-https://drive.google.com/file/d/1zOyoEH2Nm6xxXWQY30sX4kA3HRGl31R8/view?usp=sharing
+https://drive.google.com/file/d/1ay54VeFOqPl9Ph0CO8v8Cd1zmXk18eIC/view?usp=sharing
 
 https://drive.google.com/file/d/1-3ae7FrVJgBKre0OJb_Y1jfEluFPgk6g/view?usp=sharing
 
